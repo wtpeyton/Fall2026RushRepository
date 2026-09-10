@@ -2,6 +2,7 @@ import { PersonalDetail } from "./PersonalDetail";
 
 export function About() {
   return (
+    
     <div className="grid gap-6 lg:grid-cols-2">
       <article className="panel">
         <div className="panel-title">
