@@ -2,19 +2,19 @@ const contacts = [
   {
     label: "EMAIL",
     href: "mailto:youremail@email.com",
-    value: "youremail@email.com",
+    value: "wtpeyton@email.sc.edu",
     hint: "mailto",
   },
   {
     label: "LINKEDIN",
     href: "https://www.linkedin.com/in/your-handle",
-    value: "linkedin.com/in/your-handle",
+    value: "https://www.linkedin.com/in/wtpeyton/",
     hint: "profile",
   },
   {
     label: "GITHUB",
     href: "https://github.com/your-handle",
-    value: "github.com/your-handle",
+    value: "https://github.com/wtpeyton",
     hint: "repos",
   },
 ] as const;
